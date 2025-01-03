@@ -13,19 +13,19 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
-  "prefix": "#",
+  "nickNameBot": "𝐀𝐑𝐀𝐃-𝐁𝐎𝐓",
+  "prefix": "$",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61569832358766",
-    "61567839043027"
+    "61556610624408",
+    "100075808585925"
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["100071880593545"],
+    "whiteListIds": ["61556610624408"],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
   "whiteListModeThread": {
